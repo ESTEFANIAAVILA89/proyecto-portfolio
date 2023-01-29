@@ -1,0 +1,13 @@
+.container-navbar {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.ul-navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.presentacion{
+  /* padding: 0 200px; */
+}
