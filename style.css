@@ -8,6 +8,13 @@
   display: flex;
   justify-content: space-around;
 }
-.presentacion{
-  /* padding: 0 200px; */
+
+.iconos {
+  text-align: center;
 }
+
+.iconos > img {
+  text-align: center;
+  height: 50px;
+}
+
