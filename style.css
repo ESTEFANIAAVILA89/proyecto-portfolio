@@ -1,12 +1,12 @@
-body{
-  background-color: #FEFCF3!important;
-  
-  font-family: 'Poppins', sans-serif!important;
+body {
+  background-color: #fefcf3 !important;
+
+  font-family: "Poppins", sans-serif !important;
 }
-.navbar{
-background-color: #F0DBDB;
-font-family: 'Poppins', sans-serif!important;
-font-weight: bold;
+.navbar {
+  background-color: #f0dbdb;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: bold;
 }
 
 .container-navbar {
@@ -28,33 +28,62 @@ font-weight: bold;
   text-align: center;
   height: 50px;
 }
-.titu-acercademi{
+.titu-acercademi {
   text-align: center;
   font-size: x-large;
 }
-.presentacion{
+.presentacion {
   text-align: center;
   font-weight: normal;
-  font-size:large;
+  font-size: large;
 }
-.titulos{
+.titulos {
   font-size: x-large;
 }
-.contactos{
+.contactos {
   display: flex;
-  justify-content:space-evenly;
+  justify-content: space-evenly;
 }
-#acercademi{
+#acercademi {
   border: 1px solid black;
   border-radius: 8px;
-  
 }
-#conocimientos{
+#conocimientos {
   border: 1px solid black;
   border-radius: 8px;
-  
 }
-#proyectos{
+#proyectos {
   border: 1px solid black;
   border-radius: 8px;
+}
+
+.libreapp {
+  border-radius: 20%;
+  width: 300px;
+  height: 300px;
+  margin-left: 10px;
+}
+.deliciosisimo {
+  border-radius: 20%;
+  width: 300px;
+  height: 250px;
+  margin-left: 10px;
+}
+.render{
+  border-radius: 20%;
+  width: 300px;
+  height: 250px;
+  margin-left: 10px;
+}
+.rshow{
+  border-radius: 20%;
+  width: 300px;
+  height: 250px;
+  margin-left: 10px;
+}
+.TesterQA{
+  border-radius: 20%;
+  width: 300px;
+  height: 250px;
+  margin-left: 10px;
 }
